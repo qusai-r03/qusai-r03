@@ -1,9 +1,19 @@
 <h1 align="center">Hi, I'm Qusai Alrawabdeh 👋</h1>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Student;42+Irbid+Learner;C+%7C+Python+%7C+Docker+%7C+React;Building+Software+One+Project+at+a+Time"
+    alt="Typing animation"
+  >
+</p>
 <h3 align="center">
 Computer Science Student • 42 Irbid Learner • Software Developer
 </h3>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=qusai-r03&theme=github-dark-blue&hide_border=true"
+    alt="GitHub streak"
+  >
+</p>
 <p align="center">
   <a href="https://github.com/qusai-r03">
     <img src="https://img.shields.io/badge/GitHub-qusai--r03-181717?style=for-the-badge&logo=github" alt="GitHub">
@@ -122,7 +132,14 @@ A C function that reads a file descriptor one line at a time.
 **Technologies:** C, File Descriptors, Memory Management
 
 ---
-
+<p align="center">
+  <a href="https://github.com/qusai-r03/Rydora">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=qusai-r03&repo=42-smart-shuttle&hide_border=true"
+      alt="42-smart-shuttle repository"
+    >
+  </a>
+</p>
 ## Tech Stack
 
 ### Languages
@@ -136,7 +153,12 @@ A C function that reads a file descriptor one line at a time.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
 </p>
-
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=qusai-r03&label=Profile%20Views&style=flat"
+    alt="Profile views"
+  >
+</p>
 ### Frameworks and Technologies
 
 <p>
@@ -147,7 +169,12 @@ A C function that reads a file descriptor one line at a time.
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX">
 </p>
-
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=qusai-r03&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub trophies"
+  >
+</p>
 ### Tools and Environment
 
 <p>
@@ -211,7 +238,12 @@ A C function that reads a file descriptor one line at a time.
 <p align="center">
   Building, learning, and improving one project at a time.
 </p>
-
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=qusai-r03&theme=github-compact&hide_border=true"
+    alt="GitHub activity graph"
+  >
+</p>
 ## Contribution Snake
 
 <p align="center">
