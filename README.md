@@ -215,8 +215,18 @@ A C function that reads a file descriptor one line at a time.
 ## Contribution Snake
 
 <p align="center">
-  <img
-    src="https://github.com/qusai-r03/qusai-r03/blob/output/github-contribution-grid-snake-dark.svg?raw=true"
-    alt="GitHub contribution snake"
-  >
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/qusai-r03/qusai-r03//github-contribution-grid-snake-dark.svg"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/qusai-r03/qusai-r03/gh-pages/github-contribution-grid-snake.svg"
+    >
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/qusai-r03/qusai-r03/gh-pages/github-contribution-grid-snake.svg"
+    >
+  </picture>
 </p>
